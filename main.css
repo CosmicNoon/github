@@ -1,0 +1,12 @@
+/*
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+padding: top-px right-px bottom-px left-px;
+margin: top-px right-px bottom-px left-px;
+*/
+
+body{
+  background-color: blue;
+}
